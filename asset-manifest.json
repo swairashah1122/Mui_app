@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Mui_app/static/css/main.02a5ed09.css",
+    "main.js": "/Mui_app/static/js/main.bfbb8523.js",
+    "static/js/453.d0ad88e9.chunk.js": "/Mui_app/static/js/453.d0ad88e9.chunk.js",
+    "static/media/shoe 2.jpg": "/Mui_app/static/media/shoe 2.372f58826e2ef097f165.jpg",
+    "static/media/Poloshirt.jpg": "/Mui_app/static/media/Poloshirt.be95ba12024336df51ef.jpg",
+    "static/media/shoe 3.jpg": "/Mui_app/static/media/shoe 3.df98c2fdd77e9a809051.jpg",
+    "static/media/sandals2.webp": "/Mui_app/static/media/sandals2.abeb2c029078c99b95f4.webp",
+    "static/media/shoe 4.jpg": "/Mui_app/static/media/shoe 4.3422556b5c5b388db3e1.jpg",
+    "static/media/logo.png": "/Mui_app/static/media/logo.766939da73ecbd41c389.png",
+    "static/media/tshirts.jpg": "/Mui_app/static/media/tshirts.490e03c1457c16bcccd4.jpg",
+    "static/media/sandel3.webp": "/Mui_app/static/media/sandel3.0d66252375a5777caac8.webp",
+    "static/media/poloshirts.jpg": "/Mui_app/static/media/poloshirts.29ed3439ddf87e91adf9.jpg",
+    "static/media/shirts2.webp": "/Mui_app/static/media/shirts2.340ecaf0fda5fa883713.webp",
+    "static/media/sandel1.webp": "/Mui_app/static/media/sandel1.4ad28f7d50e925c583d9.webp",
+    "static/media/pant 3.jpg": "/Mui_app/static/media/pant 3.02b6f5fabe6300a5a6b2.jpg",
+    "static/media/shoe 1.jpg": "/Mui_app/static/media/shoe 1.7b7990f9c306ba114f86.jpg",
+    "static/media/banner.avif": "/Mui_app/static/media/banner.0f60670cc66bee0aa883.avif",
+    "index.html": "/Mui_app/index.html",
+    "main.02a5ed09.css.map": "/Mui_app/static/css/main.02a5ed09.css.map",
+    "main.bfbb8523.js.map": "/Mui_app/static/js/main.bfbb8523.js.map",
+    "453.d0ad88e9.chunk.js.map": "/Mui_app/static/js/453.d0ad88e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02a5ed09.css",
+    "static/js/main.bfbb8523.js"
+  ]
+}
